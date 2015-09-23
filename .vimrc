@@ -1,1 +1,0 @@
-/Users/alokbeniwal/.vimrc
