@@ -599,8 +599,6 @@ let python_highlight_all = 1
 
     set wildcharm=<Tab>
 
-let CoVim_default_name = "Alok Singh"
-let CoVim_default_port = "192.168.1.6"
 
 " ================ Return to last edit ===========================
 
@@ -618,6 +616,3 @@ au BufReadCmd *.epub call zip#Browse(expand("<amatch>"))
 
 " Remember info about open buffers on close
 set viminfo^=%
-
-" ================ Custom Settings ========================
-so ~/.yadr/vim/settings.vim
